@@ -44,7 +44,7 @@ For anything about the research, resources, and other related matters, please fe
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Yu Zhou, **Xingyu Wu**, Jibin Wu, Liang Feng, Kay Chen Tan. HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, Mexico City, USA.
+1. Yu Zhou, **Xingyu Wu** *, Jibin Wu, Liang Feng, Kay Chen Tan. HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, Mexico City, USA.
 2. Jian Yao, Ran Cheng, **Xingyu Wu**, Jibin Wu, Kay Chen Tan. Diversity-Aware Policy Optimization for Large Language Model Reasoning. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, Mexico City, USA.
 3. Haiyun Qiu, **Xingyu Wu** *, Ran Cheng, Kay Chen Tan. DB-Merging: Distribution-Aware Model Merging for Multi-Task Inference. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Poster), October 31 - November 2, 2025, Xiamen, Chian.
 4. **Xingyu Wu**, Jibin Wu, Kay Chen Tan. LLM-driven Evolutionary Algorithm Selection: Bidirectional Framework and Sampling Paradigm. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Oral), October 31 - November 2, 2025, Xiamen, Chian.
@@ -184,6 +184,7 @@ For anything about the research, resources, and other related matters, please fe
 - Evolutionary Computation (ECJ, MIT Press Journals)
 - World Wide Web (WWW, Springer)
 - The Journal of Supercomputing (TJSC, Springer)
+- Scientific Reports (Sci. Rep., Springer)
 - Soft Computing (SOCO, Springer)
 - International Journal of Fuzzy Systems (IJFS, Springer)
 - Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
