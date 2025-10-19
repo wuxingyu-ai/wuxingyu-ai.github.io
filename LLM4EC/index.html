@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Large Language Models Meet Evolutionary Computation — WCCI 2026 Special Session</title>
+  <meta name="description" content="WCCI 2026 Special Session: Large Language Models Meet Evolutionary Computation — Towards Synergistic Intelligence. Organisers: Xingyu Wu, Yuejiao Gong, Liang Feng, Kay Chen Tan." />
+  <link rel="icon" href="/LLM4EC/assets/favicon.png" />
+  <style>
+    :root{
+      --bg:#0f1724; --card:#0b1220; --muted:#9aa8c3; --accent:#78d0ff; --glass: rgba(255,255,255,0.04);
+      --maxw:1100px; --radius:12px; --pad:18px;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background: linear-gradient(180deg,#071022 0%, #081226 40%, #071022 100%); color:#e6f0ff; line-height:1.55;
+      -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+    }
+    .wrap{max-width:var(--maxw); margin:28px auto; padding:18px;}
+    header{display:flex; gap:16px; align-items:center;}
+    .logo{width:84px; height:84px; border-radius:12px; background:var(--glass); display:flex;align-items:center;justify-content:center;font-weight:700;color:var(--accent)}
+    h1{margin:0 0 6px;font-size:1.45rem}
+    p.lead{margin:6px 0 18px;color:var(--muted)}
+    .grid{display:grid; grid-template-columns: 1fr 340px; gap:18px; align-items:start}
+    @media (max-width:900px){ .grid{grid-template-columns:1fr} .logo{width:64px;height:64px} header{flex-direction:row} }
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border-radius:var(--radius); padding:var(--pad); box-shadow: 0 6px 20px rgba(2,6,23,0.6);}
+    .meta{display:flex; gap:12px; flex-wrap:wrap; margin-bottom:12px}
+    .tag{font-size:.85rem; color:var(--accent); background:rgba(120,208,255,0.06); padding:6px 10px;border-radius:999px}
+    .section-title{font-size:1.05rem; margin:6px 0 12px; color:#cfeaff}
+    .organisers-list{display:grid; gap:10px}
+    .person{display:flex; gap:12px; align-items:flex-start}
+    .avatar{width:56px;height:56px;border-radius:8px;background:linear-gradient(135deg,var(--accent),#6be3ff); display:flex;align-items:center;justify-content:center;color:#032; font-weight:700}
+    .bio small{color:var(--muted)}
+    .btn{display:inline-block;padding:9px 14px;border-radius:10px;background:linear-gradient(90deg,var(--accent),#5cc8ff); color:#022; font-weight:700; text-decoration:none; margin-right:8px}
+    .btn-ghost{background:transparent;border:1px solid rgba(255,255,255,0.04); color:var(--accent)}
+    .accordion{border-top:1px dashed rgba(255,255,255,0.03); margin-top:10px; padding-top:8px}
+    details{background:rgba(255,255,255,0.01); padding:8px; border-radius:8px}
+    .small{font-size:.9rem;color:var(--muted)}
+    footer{margin-top:20px; text-align:center; color:var(--muted); font-size:.9rem}
+    nav{display:flex; gap:8px; flex-wrap:wrap}
+    .chips{display:flex; gap:8px; flex-wrap:wrap}
+    .program{display:grid; gap:10px}
+    .paper{border-radius:8px;padding:10px;background:rgba(255,255,255,0.015); border-left:3px solid rgba(255,255,255,0.02)}
+    .contact{display:flex; gap:12px; align-items:center; justify-content:space-between}
+    .right-rail .card{position:sticky; top:18px}
+    .qr{width:140px;height:140px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); display:flex;align-items:center;justify-content:center;border-radius:8px}
+    .muted{color:var(--muted)}
+    .link{color:var(--accent); text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="logo">LLM4EC</div>
+      <div>
+        <h1>Large Language Models Meet Evolutionary Computation</h1>
+        <p class="lead">WCCI 2026 Special Session — Towards Synergistic Intelligence<br><span class="small">Organisers: Xingyu Wu, Yuejiao Gong, Liang Feng, Kay Chen Tan</span></p>
+        <nav class="meta">
+          <span class="tag">IEEE WCCI 2026 — CEC Track</span>
+          <span class="small">Format: 2-hour special session with interactive panel & co-creation roundtable</span>
+        </nav>
+      </div>
+    </header>
+
+    <main class="grid" style="margin-top:16px">
+      <section>
+        <div class="card">
+          <div class="section-title">Session abstract</div>
+          <p>
+            The convergence of large language models (LLMs) and evolutionary computation (EC) opens new research directions where language-based reasoning and open-ended search complement each other.
+            This session explores bidirectional synergies: how LLMs can act as intelligent operators, algorithm designers, and reasoning modules for EC; and how EC can optimize prompts, architectures and the lifecycle of foundation models.
+            We invite contributions that bridge theory, algorithm design, evaluation, and applications (AutoML, NAS, robotics, scientific discovery, software engineering, etc.).
+          </p>
+
+          <div style="margin-top:12px">
+            <a class="btn" href="#committed">Committed papers</a>
+            <a class="btn btn-ghost" href="#organisers">Organisers & bios</a>
+            <a class="btn btn-ghost" href="https://github.com/wuxingyu-ai/wuxingyu-ai.github.io" target="_blank">GitHub repo</a>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:14px">
+          <div class="section-title">Topics of interest</div>
+          <div class="chips small muted">
+            LLM-guided optimization · Evolutionary prompt engineering · Architecture search · Hybrid AutoML · Explainability · Co-evolution · Benchmarks · Applications
+          </div>
+        </div>
+
+        <div class="card" id="committed" style="margin-top:14px">
+          <div class="section-title">Committed papers (drafts / placeholders)</div>
+          <p class="small muted">Below are representative titles/abstracts that the organisers will submit or coordinate. These are sample abstracts for the proposal — final submissions will follow the conference review process.</p>
+
+          <div class="program" style="margin-top:10px">
+            <!-- Paper 1 -->
+            <div class="paper">
+              <strong>1. LLM-Driven Evolutionary Operators for Constrained Optimization</strong>
+              <div class="small muted">Xingyu Wu, et al.</div>
+              <p class="small">This work studies language-model-based crossover and mutation operators for constrained continuous optimization, introducing problem-aware prompts and a hybrid evaluator that blends surrogate models with constraint repair mechanisms. Results show improved sample efficiency on benchmark constrained problems.</p>
+            </div>
+
+            <!-- Paper 2 -->
+            <div class="paper">
+              <strong>2. Evolutionary Prompt Engineering via Multiobjective Search</strong>
+              <div class="small muted">Yuejiao Gong, et al.</div>
+              <p class="small">We present a multiobjective evolutionary framework that searches for instruction prompts balancing performance, robustness and compactness. Experiments on classification and code-generation tasks demonstrate improved generalization and transfer.</p>
+            </div>
+
+            <!-- Paper 3 -->
+            <div class="paper">
+              <strong>3. Architecture Co-Evolution for Efficient Foundation Models</strong>
+              <div class="small muted">Liang Feng, et al.</div>
+              <p class="small">This paper proposes an evolutionary NAS that co-evolves layer-wise configurations and training schedules for compact foundation models, using performance-cost Pareto optimization and surrogate predictors to accelerate the search.</p>
+            </div>
+
+            <!-- Paper 4 -->
+            <div class="paper">
+              <strong>4. Explainable EC–LLM Hybrids for Scientific Discovery</strong>
+              <div class="small muted">Collaborative Team</div>
+              <p class="small">We integrate causal probing with language-guided mutation operators to discover interpretable models in a chemistry optimization task, showing discoveries that are both high-performing and human-interpretable.</p>
+            </div>
+
+            <!-- Paper 5 -->
+            <div class="paper">
+              <strong>5. Co-Creation in the Loop: Human–Model Evolution for Robotics</strong>
+              <div class="small muted">Kay Chen Tan, et al.</div>
+              <p class="small">We propose a co-creative evolutionary framework where human feedback and LLM-generated behavioral priors jointly guide robot morphology and controller evolution. User studies and sim-to-real tests validate the framework.</p>
+            </div>
+
+          </div>
+
+          <div class="accordion" style="margin-top:10px">
+            <details>
+              <summary>Show more / edit committed paper entries</summary>
+              <p class="small muted">You can edit these placeholders to reflect the actual planned submissions. For the final proposal it is recommended to include at least 3–5 committed titles (optional but encouraged).</p>
+            </details>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:14px">
+          <div class="section-title">Session format & review</div>
+          <p class="small">Planned duration: 2 hours. Format includes 5 paper presentations (15 min each), a 20-min mini-panel, and a 25-min interactive co-creation roundtable with live audience contribution and a summary to be published on the session page.</p>
+        </div>
+
+        <div class="card" style="margin-top:14px" id="activities">
+          <div class="section-title">Special activities (feature)</div>
+          <ol class="small muted">
+            <li><strong>Mini Panel:</strong> "Will Evolution Outthink Language Models?" — short positions + audience poll.</li>
+            <li><strong>Co-Creation Roundtable:</strong> Audience-driven roadmap board; post-session roadmap snapshot published on the web page.</li>
+            <li><strong>Community Challenge (post-conference):</strong> Seed repository for benchmarks & tasks; participants invited to contribute baseline implementations.</li>
+          </ol>
+        </div>
+
+      </section>
+
+      <aside class="right-rail">
+        <div class="card">
+          <div class="section-title">Organisers & Contacts</div>
+
+          <div id="organisers" class="organisers-list">
+            <div class="person">
+              <div class="avatar">XW</div>
+              <div>
+                <div><strong>Dr. Xingyu Wu</strong></div>
+                <div class="small muted">Postdoc, The Hong Kong Polytechnic University</div>
+                <div class="bio small">Automated ML, causality, LLMs. Vice Chair, IEEE CIS Task Force on LLMs.</div>
+              </div>
+            </div>
+
+            <div class="person">
+              <div class="avatar">YG</div>
+              <div>
+                <div><strong>Dr. Yuejiao Gong</strong></div>
+                <div class="small muted">Professor, South China University of Technology</div>
+                <div class="bio small">Swarm intelligence, deep learning, intelligent transportation.</div>
+              </div>
+            </div>
+
+            <div class="person">
+              <div class="avatar">LF</div>
+              <div>
+                <div><strong>Prof. Liang Feng</strong></div>
+                <div class="small muted">Professor, Chongqing University</div>
+                <div class="bio small">Memetic computing, evolutionary multitasking, transfer learning.</div>
+              </div>
+            </div>
+
+            <div class="person">
+              <div class="avatar">KT</div>
+              <div>
+                <div><strong>Prof. Kay Chen Tan (FIEEE)</strong></div>
+                <div class="small muted">Chair Professor, PolyU</div>
+                <div class="bio small">Pioneer in evolutionary computation; IEEE Fellow.</div>
+              </div>
+            </div>
+          </div>
+
+          <hr style="border:none;border-top:1px solid rgba(255,255,255,0.03);margin:12px 0" />
+          <div class="contact">
+            <div>
+              <div class="small muted">Primary contact</div>
+              <div><strong>Dr. Xingyu Wu</strong></div>
+              <div class="small muted">xingy.wu@polyu.edu.hk</div>
+            </div>
+            <div style="text-align:center">
+              <div class="small muted">Session page</div>
+              <div style="margin-top:6px"><a class="link" href="https://wuxingyu-ai.github.io/LLM4EC" target="_blank">wuxingyu-ai.github.io/LLM4EC</a></div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="card" style="margin-top:14px">
+          <div class="section-title">Live interaction</div>
+          <div style="display:flex; gap:8px; align-items:center">
+            <div class="qr">
+              <div class="small muted">QR for live poll (placeholder)</div>
+            </div>
+            <div class="small muted">We will generate a QR for live audience polling (e.g., Slido / Mentimeter) and place it here during the session.</div>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:14px">
+          <div class="section-title">Resources</div>
+          <ul class="small muted">
+            <li><a class="link" href="https://github.com/wuxingyu-ai/wuxingyu-ai.github.io" target="_blank">Session GitHub</a></li>
+            <li><a class="link" href="mailto:xingy.wu@polyu.edu.hk">Contact organiser</a></li>
+            <li><a class="link" href="https://doi.org/10.1109/TEVC.2024.3506731" target="_blank">TEVC 2025 survey (foundation)</a></li>
+          </ul>
+        </div>
+
+      </aside>
+    </main>
+
+    <footer>
+      <div>© WCCI 2026 Special Session — Large Language Models Meet Evolutionary Computation</div>
+      <div style="margin-top:6px">Built by the organisers • Hosted at <a class="link" href="https://wuxingyu-ai.github.io" target="_blank">wuxingyu-ai.github.io</a></div>
+    </footer>
+  </div>
+
+  <!-- Minimal JS for smooth anchor scrolling -->
+  <script>
+    document.querySelectorAll('a[href^="#"]').forEach(a=>{
+      a.addEventListener('click', e=>{
+        e.preventDefault();
+        const id = a.getAttribute('href').slice(1);
+        const el = document.getElementById(id);
+        if(el) el.scrollIntoView({behavior:'smooth', block:'start'});
+      });
+    });
+  </script>
+</body>
+</html>
