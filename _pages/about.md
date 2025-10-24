@@ -122,6 +122,7 @@ For anything about the research, resources, and other related matters, please fe
 
 #### Organization Services
 - Vice Chair of IEEE Computational Intelligence Society (CIS) Task Force on **LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems** ([Link](https://cis.taskforce.ieee.org/gpais/))
+- Co-Chair, IEEE Conference on Artificial Intelligence (CAI) 2026 Workshop on General-Purpose Artificial Intelligent Systems, May. 8-10, Granada, Spain, 2026.
 
 #### Area Chair (AC) / Senior Program Committee Member (SPC)
 - The 14th International Conference on Learning Representations (ICLR'26)
