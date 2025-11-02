@@ -48,7 +48,7 @@ For anything about the research, resources, and other related matters, please fe
 2. Yu Zhou, **Xingyu Wu** *, Jibin Wu, Liang Feng, Kay Chen Tan *. HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, California, United States.
 3. Jian Yao, Ran Cheng, **Xingyu Wu**, Jibin Wu, Kay Chen Tan. Diversity-Aware Policy Optimization for Large Language Model Reasoning. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, California, United States.
 4. Haiyun Qiu, **Xingyu Wu**, Ran Cheng, Kay Chen Tan. DB-Merging: Distribution-Aware Model Merging for Multi-Task Inference. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Poster), October 31 - November 2, 2025, Xiamen, Chian.
-5. **Xingyu Wu**, Jibin Wu, Kay Chen Tan. LLM-driven Evolutionary Algorithm Selection: Bidirectional Framework and Sampling Paradigm. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Oral), October 31 - November 2, 2025, Xiamen, Chian.
+5. **Xingyu Wu**, Yinglan Feng, Jibin Wu. LLM-driven Evolutionary Algorithm Selection: Bidirectional Framework and Sampling Paradigm. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Oral), October 31 - November 2, 2025, Xiamen, Chian.
 6. Beichen Huang, **Xingyu Wu** *, Yu Zhou, Jibin Wu, Liang Feng, Ran Cheng, Kay Chen Tan. Evaluation of Large Language Models as Solution Generators in Complex Optimization. IEEE Computational Intelligence Magazine, vol. 20 (4), pp. 56 - 70, 2025.
 7. **Xingyu Wu**, Jibin Wu, Yu Zhou, Liang Feng, Kay Chen Tan. Towards Robustness and Explainability of Automatic Algorithm Selection. The 42rd International Conference on Machine Learning (ICML'25, Spotlight), July 13-19, 2025, Vancouver, Canada.
 8. Zhaolong Ling, Mengxiang Guo, **Xingyu Wu** *, Debo Cheng, Peng Zhou, Tianci Li, Zhangling Duan. Gradient-based Causal Feature Selection. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25, Oral), August 16-22, 2025, Montreal, Canada.
@@ -104,9 +104,10 @@ For anything about the research, resources, and other related matters, please fe
 
 
 # 🎖 Honors and Awards
+- Best Paper Award, The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing, Nov 2025
 - First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024 ([Link](https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/))
 - Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022 ([Link](https://smp-challenge.com/2022/leaderboard.html))
-- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project (中国科协2022年度科技期刊双语传播工程), China Association for Science and Technology, Dec, 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
+- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project (中国科协2022年度科技期刊双语传播工程), China Association for Science and Technology, Dec 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
 - Second Prize of The Chinese Mathematics Competitions (全国大学生数学竞赛, CMC), Chinese Mathematical Society, Oct 2015
 - Second Prize of China Undergraduate Mathematical Contest in Modeling (全国大学生数学建模竞赛, CUMCM), China Society for Industrial and Applied Mathematics, Oct 2016
 - Finalist of International Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Application, Oct 2017
