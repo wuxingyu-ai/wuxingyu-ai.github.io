@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
+Dr. Xingyu Wu is an Assistant Professor in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. He previously served as a Postdoctoral Fellow in the same department. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
 
 Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, NeurIPS, AAAI, IJCAI, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) [Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems](https://cis.taskforce.ieee.org/gpais/). He also serves as the reviewer for 40+ prestigious journals and 25+ top conferences. 
 
@@ -31,6 +31,8 @@ For anything about the research, resources, and other related matters, please fe
   - Computer Science and Technology, School of Computer Science and Engineering
 - *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
   - Computer Science and Technology, School of Computer Science and Technology
+- *2023.08 - 2025.12*, The Hong Kong Polytechnic University, Postdoctoral Research Fellow.
+  - Department of Data Science and Artificial Intelligence, Faculty of Computer and Mathematical Sciences
 
 # 💻 Research
 
