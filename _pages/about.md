@@ -132,6 +132,7 @@ For anything about the research, resources, and other related matters, please fe
 
 #### Area Chair (AC) / Senior Program Committee Member (SPC)
 - The 14th International Conference on Learning Representations (ICLR'26)
+- The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 - The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
 - The 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND'25)
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
