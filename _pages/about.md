@@ -159,6 +159,7 @@ For anything about the research, resources, and other related matters, please fe
 - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25)
 - The 28th European Conference on Artificial Intelligence (ECAI'25)
 - The 29th International Conference on Artificial Intelligence and Statistics (AISTATS'26)
+- The 43th International Conference on Machine Learning (ICML'26)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
