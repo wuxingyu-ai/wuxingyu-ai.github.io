@@ -130,6 +130,9 @@ For anything about the research, resources, and other related matters, please fe
 - Co-organizer (with Prof. Morteza Moradi, Prof. Mohammad H. Moradi, Prof. Filipe Alexandre de Sousa Pereira, Prof. Hamed Rezazadegan Tavakoli, Prof. Jérôme Mendes), IEEE World Congress on Computational Intelligence (WCCI) 2026 Workshop, Intelligent Applications for Industrial Systems (IAIS): The Role of AI-Based Methods, Jun. 21-26, Netherlands, 2026.
 - Session Chair, 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND 2025), Oct. 31 - Nov. 2, Xiamen, China, 2025
 
+#### Journal Associate/Guest Editors
+- Guest Co-Editor (with Yuejiao Gong, Jun Zhang, and Kay Chen Tan) of a Special Issue of IEEE Transactions on Evolutionary Computation entitled "Meta-Learning and Automated Design of Evolutionary Algorithms" 2026
+
 #### Area Chair (AC) / Senior Program Committee Member (SPC)
 - The 14th International Conference on Learning Representations (ICLR'26)
 - The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
@@ -160,6 +163,7 @@ For anything about the research, resources, and other related matters, please fe
 - The 28th European Conference on Artificial Intelligence (ECAI'25)
 - The 29th International Conference on Artificial Intelligence and Statistics (AISTATS'26)
 - The 43th International Conference on Machine Learning (ICML'26)
+- The 35th ACM International Conference on Multimedia (ACM MM'26)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
@@ -187,6 +191,7 @@ For anything about the research, resources, and other related matters, please fe
 - Knowledge-Based Systems (KNOSYS, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 - Applied Soft Computing (ASOC, Elsevier)
+- Computer Science Review (COSREV, Elsevier)
 - Electronic Commerce Research and Applications (ECRA, Elsevier)
 - Reliability Engineering & System Safety (JRESS, Elsevier)
 - Automation in Construction (AUTCON, Elsevier)
