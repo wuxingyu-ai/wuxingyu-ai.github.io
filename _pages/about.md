@@ -20,10 +20,11 @@ redirect_from:
 
 Dr. Xingyu Wu is an Assistant Professor in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. He previously served as a Postdoctoral Fellow in the same department. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, NeurIPS, AAAI, IJCAI, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) [Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems](https://cis.taskforce.ieee.org/gpais/). He also serves as the reviewer for 40+ prestigious journals and 25+ top conferences. 
+Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, NeurIPS, AAAI, IJCAI, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) [Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems](https://cis.taskforce.ieee.org/gpais/), and the Associate Editors for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition). He also serves as the reviewer for 40+ prestigious journals and 20+ top conferences. 
 
 For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
 
+# 🔥 Recruitment
 We are actively looking for self-motivated **PhD Students, Postdoctoral Researchers, and Research Assistants** to work and have fun together on multiple research projects. Drop me an email (xingy.wu@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 
 
@@ -134,7 +135,8 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - Session Chair, 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND 2025), Oct. 31 - Nov. 2, Xiamen, China, 2025
 
 #### Journal Associate/Guest Editors
-- Guest Co-Editor (with Yuejiao Gong, Jun Zhang, and Kay Chen Tan) of a Special Issue of IEEE Transactions on Evolutionary Computation entitled "Meta-Learning and Automated Design of Evolutionary Algorithms" 2026
+- Associate Editor of Pattern Recognition ([Link](https://www.sciencedirect.com/journal/pattern-recognition))
+- Guest Co-Editor (with Yuejiao Gong, Jun Zhang, and Kay Chen Tan) of a Special Issue of IEEE Transactions on Evolutionary Computation entitled "Meta-Learning and Automated Design of Evolutionary Algorithms" 2026 ([Link](https://cis.ieee.org/publications/t-evolutionary-computation/tevc-special-issues))
 
 #### Area Chair (AC)
 - The 40th Annual Conference on Neural Information Processing Systems (NeurIPS'26)
