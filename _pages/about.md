@@ -41,7 +41,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 
 - Automated Machine Learning
 - Causality-based Machine Learning
-- Large Foundation Model
+- Large Foundation Model Reuse
 
 
 <!-- # 🔥 News
@@ -185,6 +185,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - IEEE Wireless Communications Magazine (WCM, IEEE)
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
 - IEEE Robotics and Automation Letters (RA-L, IEEE)
+- ACM Computing Surveys (CSUR, ACM)
 - ACM Transactions on Knowledge Discovery from Data (TKDD, ACM)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
 - Artificial Intelligence (AIJ, Elsevier)
@@ -193,6 +194,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - Neural Networks (NEUNET, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
+- International Journal of Forecasting (IJF, Elsevier)
 - European Journal of Operational Research (EJOR, Elsevier)
 - Communications in Nonlinear Science and Numerical Simulation (CNSNS, Elsevier)
 - Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
