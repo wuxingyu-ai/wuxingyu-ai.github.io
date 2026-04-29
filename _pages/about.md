@@ -39,9 +39,9 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 
 # 💻 Research
 
-- Automated Machine Learning
-- Causality-based Machine Learning
-- Large Foundation Model Reuse
+- **Large Language Model Reuse**: LLM Router, LLM Merging, LLM Reassembly
+- **Automated Machine Learning**: Automated Feature Selection, Automated Algorithm Selection, Hyperparameter Optimization, Automated Algorithm Design
+- **Causality-based Machine Learning**: Markov Boundary Learning, Causality-based AutoML, Causality-based Real-world Application
 
 
 <!-- # 🔥 News
