@@ -50,7 +50,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 
 # 📝 Publications 
 1. **Xingyu Wu**, Yu Zhou, Kay Chen Tan. Building LLMs Like LEGO: Two-dimensional Architecture Reassembly of Large Language Models. The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26, Main Conference), July 2 - 7, 2026, San Diego, California, United States.
-2. Zhaolong Ling, Dongliang Liang, Xinyan Liang, **Xingyu Wu** *, Peng Zhou, Kui Yu, Xindong Wu. Multi-view causal feature selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol X (x), pp. xxxx-xxxx, 2026.
+2. Zhaolong Ling, Dongliang Liang, Xinyan Liang, **Xingyu Wu** *, Peng Zhou, Kui Yu, Xindong Wu. Multi-view Causal Feature Selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol X (x), pp. xxxx-xxxx, 2026.
 3. Yu Zhou, **Xingyu Wu** *, Jibin Wu, Liang Feng, Kay Chen Tan. CausalBN-Bench: A Comprehensive Benchmark for Causal Learning Capability of LLMs. IEEE Transactions on Artificial Intelligence, vol X (x), pp. xxxx-xxxx, 2026.
 4. Shenghao Wu, **Xingyu Wu** *, Kay Chen Tan, Zhi-hui Zhan. SAFAS: Simulated Algorithm Feature-enhanced Automated Algorithm Selection for Black-Box Optimization. The 19th International Conference on Parallel Problem Solving From Nature (PPSN'26), August 29 - September 2, 2026, Trento, Italy.
 5. Hengyi Sim, Junjia Liu, Donatien Delehelle, **Xingyu Wu**, Darwin Caldwell, Fei Chen. Learning Robot Dynamic Cloth Manipulation Based on Differentiable Dynamics Optimization and Motion Transfer. IEEE Transactions on Emerging Topics in Computational Intelligence, vol X (x), pp. xxxx-xxxx, 2025.
