@@ -137,6 +137,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - Co-organizer (with Prof. Yuejiao Gong, Prof. Liang Feng, Prof. Kay Chen Tan), IEEE World Congress on Computational Intelligence (WCCI) 2026 Special Session, Evolutionary Computation Meets Large Language Models: Foundations, Synergies, and Emerging Paradigms, Jun. 21-26, Netherlands, 2026. ([Link](https://wuxingyu-ai.github.io/LLM4EC/))
 - Co-organizer (with Prof. Morteza Moradi, Prof. Mohammad H. Moradi, Prof. Filipe Alexandre de Sousa Pereira, Prof. Hamed Rezazadegan Tavakoli, Prof. Jérôme Mendes), IEEE World Congress on Computational Intelligence (WCCI) 2026 Workshop, Intelligent Applications for Industrial Systems (IAIS): The Role of AI-Based Methods, Jun. 21-26, Netherlands, 2026.
 - Session Chair, 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND 2025), Oct. 31 - Nov. 2, Xiamen, China, 2025
+- Special Session Chair, The 2026 International Conference on Machine Intelligence and Nature-inspired Computing (MIND'26)
 
 #### Journal Associate/Guest Editors
 - Associate Editor of Pattern Recognition ([Link](https://www.sciencedirect.com/journal/pattern-recognition))
@@ -149,8 +150,9 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
 
 #### Senior Program Committee Member (SPC)
-- The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 - The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
+- The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
+- The 41st AAAI Conference on Artificial Intelligence (AAAI'27)
 
 #### Program Committee Member (PC)
 - The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
@@ -176,6 +178,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - The 29th International Conference on Artificial Intelligence and Statistics (AISTATS'26)
 - The 43th International Conference on Machine Learning (ICML'26)
 - The 35th ACM International Conference on Multimedia (ACM MM'26)
+- The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
