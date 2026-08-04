@@ -196,6 +196,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - IEEE Internet of Things Journal (IoT, IEEE)
 - ACM Computing Surveys (CSUR, ACM)
 - ACM Transactions on Knowledge Discovery from Data (TKDD, ACM)
+- Transactions on Machine Learning Research (TMLR, OpenReview)
 - INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
 - Artificial Intelligence (AIJ, Elsevier)
 - Information Fusion (INFFUS, Elsevier)
