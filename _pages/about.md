@@ -144,15 +144,16 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - Guest Co-Editor (with Yuejiao Gong, Jun Zhang, and Kay Chen Tan) of a Special Issue of IEEE Transactions on Evolutionary Computation entitled "Meta-Learning and Automated Design of Evolutionary Algorithms" 2026 ([Link](https://cis.ieee.org/publications/t-evolutionary-computation/tevc-special-issues))
 
 #### Area Chair (AC)
+- The 15th International Conference on Learning Representations (ICLR'27)
 - The 40th Annual Conference on Neural Information Processing Systems (NeurIPS'26)
 - The 14th International Conference on Learning Representations (ICLR'26)
 - The 2025 International Conference on Machine Intelligence and Nature-inspired Computing (MIND'25)
 - The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
 
 #### Senior Program Committee Member (SPC)
-- The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
-- The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
 - The 41st AAAI Conference on Artificial Intelligence (AAAI'27)
+- The 35th International Joint Conference on Artificial Intelligence (IJCAI'26)
+- The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
 
 #### Program Committee Member (PC)
 - The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
