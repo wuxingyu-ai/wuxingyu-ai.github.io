@@ -203,6 +203,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - Information Fusion (INFFUS, Elsevier)
 - Pattern Recognition (PR, Elsevier)
 - Neural Networks (NEUNET, Elsevier)
+- International Journal of Approximate Reasoning (IJAR, Elsevier)
 - Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
 - Expert Systems With Applications (ESWA, Elsevier)
