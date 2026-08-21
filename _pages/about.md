@@ -50,7 +50,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 
 # 📝 Publications 
 1. **Xingyu Wu**, Kui Yu, Jibin Wu, Kay Chen Tan. Reassessing the Role of LLMs in Causal Discovery: Critical Analysis, Benchmark Evaluation, and Exploratory Framework. Pattern Recognition, vol X (x), pp. xxxx-xxxx, 2026.
-2. Jiangeng Chang, **Xingyu Wu**, Kay Chen Tan, Mengling Feng. A Systematic Survey of Large Language Model Routing. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26), October 24 - 29, 2026, Budapest, Hungary.
+2. Jiangeng Chang, **Xingyu Wu** *, Kay Chen Tan, Mengling Feng. A Systematic Survey of Large Language Model Routing. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26), October 24 - 29, 2026, Budapest, Hungary.
 3. Zhaolong Ling, Dongliang Liang, Xinyan Liang, **Xingyu Wu** *, Peng Zhou, Kui Yu, Xindong Wu. Multi-view Causal Feature Selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol X (x), pp. xxxx-xxxx, 2026.
 4. Yu Zhou, **Xingyu Wu** *, Jibin Wu, Liang Feng, Kay Chen Tan. CausalBN-Bench: A Comprehensive Benchmark for Causal Learning Capability of LLMs. IEEE Transactions on Artificial Intelligence, vol X (x), pp. xxxx-xxxx, 2026.
 5. Sheng-hao Wu, **Xingyu Wu** *, Kay Chen Tan, Zhi-hui Zhan. SAFAS: Simulated Algorithm Feature-enhanced Automated Algorithm Selection for Black-Box Optimization. The 19th International Conference on Parallel Problem Solving From Nature (PPSN'26), August 29 - September 2, 2026, Trento, Italy.
