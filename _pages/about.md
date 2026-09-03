@@ -190,6 +190,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE Transactions on Services Computing (TSC, IEEE)
 - IEEE Transactions on Network Science and Engineering (TNSE, IEEE)
+- IEEE Transactions on Automation Science and Engineering (TASE, IEEE)
 - IEEE Journal on Selected Areas in Communications (JSAC, IEEE)
 - IEEE Computational Intelligence Magazine (CIM, IEEE)
 - IEEE Wireless Communications Magazine (WCM, IEEE)
@@ -236,10 +237,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - International Journal of Fuzzy Systems (IJFS, Springer)
 - Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
 - Complex & Intelligent Systems (CAIS, Springer)
-- International Journal of Intelligent Systems (IJIS, Wiley)
-- Intelligent Automation and Soft Computing (IASC, TSI Press)
-- CMC-Computers, Materials & Continua (CMC, Tech Science Press)
-- JMIR Medical Informatics (JMI, JMIR)
+
 
 <a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
