@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Dr. Xingyu Wu is an Assistant Professor in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. He previously served as a Postdoctoral Fellow in the same department. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
+Dr. Xingyu Wu is an Assistant Professor in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. He previously served as a Postdoctoral Fellow in the same department. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. [Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/) in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model reuse.
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning, including ICML, NeurIPS, ACL, AAAI, IJCAI, CIKM, TPAMI, TNNLS, TEVC, TCYB, CIM, TAI, TETCI, Information Sciences, and Information Fusion. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) [Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems](https://cis.taskforce.ieee.org/gpais/), and the Associate Editors for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition). He also serves as the reviewer for 40+ prestigious journals and 20+ top conferences. 
+Dr. Wu has actively published in prestigious conferences and journals in machine learning, such as TPAMI, TNNLS, TEVC, TCYB, CIM, ICML, ACL, AAAI, IJCAI, and NeurIPS. Currently, he serves as Vice Chair of IEEE Computational Intelligence Society (CIS) [Task Force on LLMs and Computational Intelligence for General-Purpose Artificial Intelligence Systems](https://cis.taskforce.ieee.org/gpais/), and the Associate Editors for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition). He also serves as the reviewer for 40+ prestigious journals and 20+ top conferences. 
 
 For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
 
@@ -49,7 +49,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. **Xingyu Wu**, Kui Yu, Jibin Wu, Kay Chen Tan. Reassessing the Role of LLMs in Causal Discovery: Critical Analysis, Benchmark Evaluation, and Exploratory Framework. Pattern Recognition, vol X (x), pp. xxxx-xxxx, 2026.
+1. **Xingyu Wu**, Kui Yu, Jibin Wu, Kay Chen Tan. Reassessing the Role of LLMs in Causal Discovery: Critical Analysis, Benchmark Evaluation, and Exploratory Framework. Pattern Recognition, vol 182 (2), pp. 114825, 2027.
 2. Jiangeng Chang, **Xingyu Wu** *, Kay Chen Tan, Mengling Feng. A Systematic Survey of Large Language Model Routing. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26), October 24 - 29, 2026, Budapest, Hungary.
 3. Zhaolong Ling, Dongliang Liang, Xinyan Liang, **Xingyu Wu** *, Peng Zhou, Kui Yu, Xindong Wu. Multi-view Causal Feature Selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol 48 (10), pp. 13236-13251, 2026.
 4. Yu Zhou, **Xingyu Wu** *, Jibin Wu, Liang Feng, Kay Chen Tan. CausalBN-Bench: A Comprehensive Benchmark for Causal Learning Capability of LLMs. IEEE Transactions on Artificial Intelligence, vol X (x), pp. xxxx-xxxx, 2026.
@@ -58,7 +58,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 7. Hengyi Sim, Junjia Liu, Donatien Delehelle, **Xingyu Wu**, Darwin Caldwell, Fei Chen. Learning Robot Dynamic Cloth Manipulation Based on Differentiable Dynamics Optimization and Motion Transfer. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 10 (2), pp. 1641-1653, 2026.
 8. Yu Zhou, **Xingyu Wu** *, Jibin Wu, Liang Feng, Kay Chen Tan *. HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, California, United States.
 9. Jian Yao, Ran Cheng, **Xingyu Wu**, Jibin Wu, Kay Chen Tan. Diversity-Aware Policy Optimization for Large Language Model Reasoning. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25, Spotlight), December 2 - 7, 2025, California, United States.
-10. Haiyun Qiu, **Xingyu Wu**, Ran Cheng, Kay Chen Tan. DB-Merging: Distribution-Aware Model Merging for Multi-Task Inference. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Poster), October 31 - November 2, 2025, Xiamen, Chian.
+10. Haiyun Qiu, **Xingyu Wu** *, Ran Cheng, Kay Chen Tan. DB-Merging: Distribution-Aware Model Merging for Multi-Task Inference. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Poster), October 31 - November 2, 2025, Xiamen, Chian.
 11. **Xingyu Wu**, Yinglan Feng, Jibin Wu. LLM-driven Evolutionary Algorithm Selection: Bidirectional Framework and Sampling Paradigm. The 2025 International Conference on Machine Intelligence and Nature-inspireD Computing (MIND'25, Oral), October 31 - November 2, 2025, Xiamen, Chian. (**Best Paper Award**)
 12. Beichen Huang, **Xingyu Wu** *, Yu Zhou, Jibin Wu, Liang Feng, Ran Cheng, Kay Chen Tan. Evaluation of Large Language Models as Solution Generators in Complex Optimization. IEEE Computational Intelligence Magazine, vol. 20 (4), pp. 56 - 70, 2025.
 13. **Xingyu Wu**, Jibin Wu, Yu Zhou, Liang Feng, Kay Chen Tan. Towards Robustness and Explainability of Automatic Algorithm Selection. The 42rd International Conference on Machine Learning (ICML'25, Spotlight), July 13-19, 2025, Vancouver, Canada.
@@ -181,6 +181,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - The 43th International Conference on Machine Learning (ICML'26)
 - The 35th ACM International Conference on Multimedia (ACM MM'26)
 - The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26)
+- The 30th International Conference on Artificial Intelligence and Statistics (AISTATS'27)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
@@ -189,6 +190,7 @@ We are actively looking for self-motivated **PhD Students, Postdoctoral Research
 - IEEE Transactions on Cybernetics (TCYB, IEEE)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
 - IEEE Transactions on Services Computing (TSC, IEEE)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, IEEE)
 - IEEE Transactions on Network Science and Engineering (TNSE, IEEE)
 - IEEE Transactions on Automation Science and Engineering (TASE, IEEE)
 - IEEE Journal on Selected Areas in Communications (JSAC, IEEE)
