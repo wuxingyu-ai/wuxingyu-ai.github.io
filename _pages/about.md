@@ -24,6 +24,16 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 
 For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)). Additionally, we welcome you to follow MIND Lab's official WeChat account for the latest research updates, recruitment information, and more: **MINDLAB POLYU**.
 
+<p>
+  <a href="{{ '/assets/files/Xingyu_Wu_CV.pdf' | relative_url }}"
+     download="Xingyu_Wu_CV.pdf"
+     style="display: inline-block; padding: 8px 16px;
+            background: #007acc; color: #fff;
+            border-radius: 5px; text-decoration: none;">
+    📄 Download CV
+  </a>
+</p>
+
 # 🔥 Recruitment
 We are actively looking for self-motivated **PhD Students, Postdoctoral Researchers, and Research Assistants** to work and have fun together on multiple research projects. Drop me an email (xingy.wu@polyu.edu.hk) with your complete CV if you are interested. Candidates with strong programming and mathematics backgrounds are preferred. **Visiting Students/Researchers** (onsite/remote) are also welcome!
 
