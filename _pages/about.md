@@ -26,7 +26,7 @@ For anything about the research, resources, and other related matters, please fe
 
 <p>
   <a href="{{ '/assets/CV_Xingyu_Wu.pdf' | relative_url }}"
-     download="Xingyu_Wu_CV.pdf"
+     download="CV_Xingyu_Wu.pdf"
      style="display: inline-block; padding: 8px 16px;
             background: #007acc; color: #fff;
             border-radius: 5px; text-decoration: none;">
